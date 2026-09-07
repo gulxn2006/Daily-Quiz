@@ -1,0 +1,7 @@
+{
+  "name": "Programming Quiz Platform",
+  "description": "An interactive, adaptive multi-language programming quiz platform with duplicate-free dynamic questions, deep explanations, and progress tracking by zero_trace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
